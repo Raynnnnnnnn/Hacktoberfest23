@@ -1,10 +1,24 @@
 <h1 align="center">Hacktoberfest 2023 Repository</h1>
 <p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java Logo">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/C-Logo.png" alt="C Logo">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/CPP-Logo.png" alt="C++ Logo">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Python-Logo.png" alt="Python Logo">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="JavaScript Logo">
+# Programming Languages Logos Repository
+
+Welcome to the Programming Languages Logos Repository! This repository contains logos of popular programming languages. Below is a table summarizing the logos included in this repository.
+
+| Language     | Logo                                            |
+|--------------|-------------------------------------------------|
+| Java         | ![Java Logo](java-logo.png)                   |
+| C++          | ![C++ Logo](cpp-logo.png)                     |
+| C            | ![C Logo](c-logo.png)                         |
+| Python       | ![Python Logo](python-logo.png)               |
+| JavaScript   | ![JavaScript Logo](javascript-logo.png)       |
+
+## Getting Started
+
+You can clone this repository to access the logos:
+
+```bash
+git clone https://github.com/your-username/programming-logos-repo.git
+
 </p>
 
 <h3 align="center">🚀 Contribute to Open Source with Various Programming Languages 🚀</h3>
@@ -63,13 +77,13 @@ Python
 JavaScript
 Feel free to choose any of these questions to practice your programming skills!
 
-**Guidelines for Contributions**
+## Guidelines for Contributions
 Ensure that your code follows good programming practices and is well-documented.
 Make sure your programs are clear, concise, and error-free.
 Feel free to suggest improvements to existing questions or add new ones.
 Please be respectful and considerate of other contributors.
 Let's make this Hacktoberfest memorable by collaborating and sharing our programming knowledge.
 
-* Happy coding! *
+*** Happy coding! ***
 
 
